@@ -1,5 +1,5 @@
 package esmska.gui;
-// pokus
+
 import esmska.Context;
 import esmska.data.Icons;
 import esmska.data.Log;
