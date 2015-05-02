@@ -338,7 +338,7 @@ public class EditTemplateFrame extends javax.swing.JFrame {
             JLabel label = new JLabel(l10n.getString("EditTemplateFrame.remove_following_template"));
             JTextArea area = new JTextArea();
             area.setEditable(false);
-            area.setRows(1);
+            area.setRows(2);
             area.append(t.toString());
             area.setCaretPosition(0);
             panel.add(label, BorderLayout.PAGE_START);
